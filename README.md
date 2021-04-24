@@ -1,4 +1,4 @@
-# Gröna Bandet Plan
+# Gröna Bandet 2021
 
 [https://www.vitagronabandet.se/sv-SE](https://www.vitagronabandet.se/sv-SE)
 
@@ -68,4 +68,5 @@ Enligt några olika källor bör en man på runt 75 kg ligga på ett kaloriintag
 | Honungsrostade jordnötter                                   | 100g             | ~650 |
 | Ölkorv                                                      | 40g = 1 korv     | ~200 |
 | Torkat renkött                                              | 100g             | ~320 |
+| Macadamianötter                                             | 100g             | ~718 |
 
